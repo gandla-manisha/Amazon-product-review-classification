@@ -93,6 +93,7 @@ Frontend:
 index.html: User interface for input and result display.
 style.css: Styling for the web page.
 script.js (optional): Handles user interactions and API calls.
+[ML proj.pptx](https://github.com/user-attachments/files/17978983/ML.proj.pptx)
 
 License
 This project is for educational purposes and can be freely modified.
